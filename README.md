@@ -10,7 +10,7 @@ Sou estudante de **Bacharelado em Tecnologia da Informação (UNIVESP)** e desen
 
 ### 💡 Interesses:
 - Desenvolvimento de sistemas personalizados para empresas
-- Automação de processos com JavaScript
+- Trabalhar como desenvolvedor (Estagiario/Iniciante)
 - Desenvolvimento de interfaces modernas e responsivas
 - Colaboração com outros desenvolvedores e empresas
 
