@@ -1,6 +1,6 @@
 # Olá! Eu sou o Gabriel Lima
 
-Sou estudante de **Bacharelado em Tecnologia da Informação (UNIVESP)** e desenvolvedor focado em criar soluções web funcionais, intuitivas e voltadas para o uso real. Busco sempre aprimorar minhas habilidades técnicas enquanto coloco em prática projetos úteis para empresas e pessoas.
+Sou estudante de **Bacharelado em Tecnologia da Informação (UNIVESP)**. Busco sempre aprimorar minhas habilidades técnicas enquanto coloco em prática projetos úteis para empresas e pessoas, e uso da minha criatividade para gerar situações de estudos focados.
 
 ###  Atualmente:
 -  Estudando **Desenvolvimento Mobile** (dart, flutter)
